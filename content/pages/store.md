@@ -24,7 +24,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-    title: INTERI
+    title: INTERIOR JEPARA PUN
 seo:
   title: Store
   description: This is the store page

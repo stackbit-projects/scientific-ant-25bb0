@@ -18,7 +18,7 @@ sections:
     section_id: promotion_section
     subtitle: from $149.99
     image: images/IMG_20210620_162737.jpg
-    background_image: /images/leaf.svg
+    background_image: images/header.jpg
     cta:
       title: Discover
       url: /store

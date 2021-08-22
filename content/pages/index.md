@@ -19,7 +19,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: "Best sellers beautiful \U0001F340\U0001F340"
     icon: true
     light_title: true
     featured_products:

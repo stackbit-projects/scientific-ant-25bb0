@@ -24,6 +24,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
+    title: INTERI
 seo:
   title: Store
   description: This is the store page

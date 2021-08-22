@@ -20,7 +20,7 @@ sections:
     image: images/IMG_20210620_162737.jpg
     background_image: images/header.jpg
     cta:
-      title: Discover
+      title: by kezzy
       url: /store
       style: secondary
       arrow: true
